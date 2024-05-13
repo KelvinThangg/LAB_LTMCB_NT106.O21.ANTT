@@ -1,0 +1,12 @@
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB 2\bin\Debug\LAB 2.exe.config
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB 2\bin\Debug\LAB 2.exe
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB 2\bin\Debug\LAB 2.pdb
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB 2\obj\Debug\LAB 2.csproj.AssemblyReference.cache
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB 2\obj\Debug\LAB_2.Bai1.resources
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB 2\obj\Debug\LAB_2.Form1.resources
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB 2\obj\Debug\LAB_2.Properties.Resources.resources
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB 2\obj\Debug\LAB 2.csproj.GenerateResource.cache
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB 2\obj\Debug\LAB 2.csproj.CoreCompileInputs.cache
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB 2\obj\Debug\LAB 2.exe
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB 2\obj\Debug\LAB 2.pdb
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB 2\obj\Debug\LAB_2.Bai2.resources

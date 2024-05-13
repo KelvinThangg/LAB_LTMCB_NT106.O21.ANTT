@@ -1,0 +1,28 @@
+C:\Users\dadad\source\repos\cau3ne\cau3ne\bin\Debug\net8.0\cau3ne.exe
+C:\Users\dadad\source\repos\cau3ne\cau3ne\bin\Debug\net8.0\cau3ne.deps.json
+C:\Users\dadad\source\repos\cau3ne\cau3ne\bin\Debug\net8.0\cau3ne.runtimeconfig.json
+C:\Users\dadad\source\repos\cau3ne\cau3ne\bin\Debug\net8.0\cau3ne.dll
+C:\Users\dadad\source\repos\cau3ne\cau3ne\bin\Debug\net8.0\cau3ne.pdb
+C:\Users\dadad\source\repos\cau3ne\cau3ne\obj\Debug\net8.0\cau3ne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dadad\source\repos\cau3ne\cau3ne\obj\Debug\net8.0\cau3ne.AssemblyInfoInputs.cache
+C:\Users\dadad\source\repos\cau3ne\cau3ne\obj\Debug\net8.0\cau3ne.AssemblyInfo.cs
+C:\Users\dadad\source\repos\cau3ne\cau3ne\obj\Debug\net8.0\cau3ne.csproj.CoreCompileInputs.cache
+C:\Users\dadad\source\repos\cau3ne\cau3ne\obj\Debug\net8.0\cau3ne.dll
+C:\Users\dadad\source\repos\cau3ne\cau3ne\obj\Debug\net8.0\refint\cau3ne.dll
+C:\Users\dadad\source\repos\cau3ne\cau3ne\obj\Debug\net8.0\cau3ne.pdb
+C:\Users\dadad\source\repos\cau3ne\cau3ne\obj\Debug\net8.0\cau3ne.genruntimeconfig.cache
+C:\Users\dadad\source\repos\cau3ne\cau3ne\obj\Debug\net8.0\ref\cau3ne.dll
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\dai35\cau3ne\cau3ne\bin\Debug\net8.0\cau3ne.exe
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\dai35\cau3ne\cau3ne\bin\Debug\net8.0\cau3ne.deps.json
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\dai35\cau3ne\cau3ne\bin\Debug\net8.0\cau3ne.runtimeconfig.json
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\dai35\cau3ne\cau3ne\bin\Debug\net8.0\cau3ne.dll
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\dai35\cau3ne\cau3ne\bin\Debug\net8.0\cau3ne.pdb
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\dai35\cau3ne\cau3ne\obj\Debug\net8.0\cau3ne.GeneratedMSBuildEditorConfig.editorconfig
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\dai35\cau3ne\cau3ne\obj\Debug\net8.0\cau3ne.AssemblyInfoInputs.cache
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\dai35\cau3ne\cau3ne\obj\Debug\net8.0\cau3ne.AssemblyInfo.cs
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\dai35\cau3ne\cau3ne\obj\Debug\net8.0\cau3ne.csproj.CoreCompileInputs.cache
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\dai35\cau3ne\cau3ne\obj\Debug\net8.0\cau3ne.dll
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\dai35\cau3ne\cau3ne\obj\Debug\net8.0\refint\cau3ne.dll
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\dai35\cau3ne\cau3ne\obj\Debug\net8.0\cau3ne.pdb
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\dai35\cau3ne\cau3ne\obj\Debug\net8.0\cau3ne.genruntimeconfig.cache
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\dai35\cau3ne\cau3ne\obj\Debug\net8.0\ref\cau3ne.dll

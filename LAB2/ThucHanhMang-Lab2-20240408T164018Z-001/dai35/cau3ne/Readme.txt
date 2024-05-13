@@ -1,0 +1,1 @@
+câu 3 lọc trường hợp dấu . -> lỗi định dạng

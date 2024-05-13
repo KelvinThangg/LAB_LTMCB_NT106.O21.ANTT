@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC1A15D-5260-4956-9C44-1DE87C388952}|ThucHanhMang-Lab2\\ThucHanhMang-Lab2.csproj|d:\\uit\\hk2 n\u0103m 2\\l\u1EADp tr\u00ECnh m\u1EA1ng\\lab\\lab2\\thuchanhmang-lab2-20240408t164018z-001\\thuchanhmang-lab2\\thuchanhmang-lab2\\lab2-bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC1A15D-5260-4956-9C44-1DE87C388952}|ThucHanhMang-Lab2\\ThucHanhMang-Lab2.csproj|solutionrelative:thuchanhmang-lab2\\lab2-bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC1A15D-5260-4956-9C44-1DE87C388952}|ThucHanhMang-Lab2\\ThucHanhMang-Lab2.csproj|D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\thuchanhmang-lab2\\lab2-bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AC1A15D-5260-4956-9C44-1DE87C388952}|ThucHanhMang-Lab2\\ThucHanhMang-Lab2.csproj|solutionrelative:thuchanhmang-lab2\\lab2-bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC1A15D-5260-4956-9C44-1DE87C388952}|ThucHanhMang-Lab2\\ThucHanhMang-Lab2.csproj|D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\thuchanhmang-lab2\\lab2-bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AC1A15D-5260-4956-9C44-1DE87C388952}|ThucHanhMang-Lab2\\ThucHanhMang-Lab2.csproj|solutionrelative:thuchanhmang-lab2\\lab2-bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC1A15D-5260-4956-9C44-1DE87C388952}|ThucHanhMang-Lab2\\ThucHanhMang-Lab2.csproj|D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\thuchanhmang-lab2\\lab2-bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC1A15D-5260-4956-9C44-1DE87C388952}|ThucHanhMang-Lab2\\ThucHanhMang-Lab2.csproj|solutionrelative:thuchanhmang-lab2\\lab2-bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC1A15D-5260-4956-9C44-1DE87C388952}|ThucHanhMang-Lab2\\ThucHanhMang-Lab2.csproj|D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\thuchanhmang-lab2\\lab2-bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AC1A15D-5260-4956-9C44-1DE87C388952}|ThucHanhMang-Lab2\\ThucHanhMang-Lab2.csproj|solutionrelative:thuchanhmang-lab2\\lab2-bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC1A15D-5260-4956-9C44-1DE87C388952}|ThucHanhMang-Lab2\\ThucHanhMang-Lab2.csproj|D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\thuchanhmang-lab2\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4AC1A15D-5260-4956-9C44-1DE87C388952}|ThucHanhMang-Lab2\\ThucHanhMang-Lab2.csproj|solutionrelative:thuchanhmang-lab2\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC1A15D-5260-4956-9C44-1DE87C388952}|ThucHanhMang-Lab2\\ThucHanhMang-Lab2.csproj|D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\thuchanhmang-lab2\\lab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AC1A15D-5260-4956-9C44-1DE87C388952}|ThucHanhMang-Lab2\\ThucHanhMang-Lab2.csproj|solutionrelative:thuchanhmang-lab2\\lab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC1A15D-5260-4956-9C44-1DE87C388952}|ThucHanhMang-Lab2\\ThucHanhMang-Lab2.csproj|D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\thuchanhmang-lab2\\lab2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC1A15D-5260-4956-9C44-1DE87C388952}|ThucHanhMang-Lab2\\ThucHanhMang-Lab2.csproj|solutionrelative:thuchanhmang-lab2\\lab2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC1A15D-5260-4956-9C44-1DE87C388952}|ThucHanhMang-Lab2\\ThucHanhMang-Lab2.csproj|D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\thuchanhmang-lab2\\lab2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{4AC1A15D-5260-4956-9C44-1DE87C388952}|ThucHanhMang-Lab2\\ThucHanhMang-Lab2.csproj|solutionrelative:thuchanhmang-lab2\\lab2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC1A15D-5260-4956-9C44-1DE87C388952}|ThucHanhMang-Lab2\\ThucHanhMang-Lab2.csproj|D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\thuchanhmang-lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC1A15D-5260-4956-9C44-1DE87C388952}|ThucHanhMang-Lab2\\ThucHanhMang-Lab2.csproj|solutionrelative:thuchanhmang-lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC1A15D-5260-4956-9C44-1DE87C388952}|ThucHanhMang-Lab2\\ThucHanhMang-Lab2.csproj|D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\thuchanhmang-lab2\\lab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC1A15D-5260-4956-9C44-1DE87C388952}|ThucHanhMang-Lab2\\ThucHanhMang-Lab2.csproj|solutionrelative:thuchanhmang-lab2\\lab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC1A15D-5260-4956-9C44-1DE87C388952}|ThucHanhMang-Lab2\\ThucHanhMang-Lab2.csproj|D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\thuchanhmang-lab2\\lab2-bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AC1A15D-5260-4956-9C44-1DE87C388952}|ThucHanhMang-Lab2\\ThucHanhMang-Lab2.csproj|solutionrelative:thuchanhmang-lab2\\lab2-bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC1A15D-5260-4956-9C44-1DE87C388952}|ThucHanhMang-Lab2\\ThucHanhMang-Lab2.csproj|D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\thuchanhmang-lab2\\lab2-bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AC1A15D-5260-4956-9C44-1DE87C388952}|ThucHanhMang-Lab2\\ThucHanhMang-Lab2.csproj|solutionrelative:thuchanhmang-lab2\\lab2-bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "lab2.Designer.cs",
+              "DocumentMoniker": "D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\ThucHanhMang-Lab2\\lab2.Designer.cs",
+              "RelativeDocumentMoniker": "ThucHanhMang-Lab2\\lab2.Designer.cs",
+              "ToolTip": "D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\ThucHanhMang-Lab2\\lab2.Designer.cs",
+              "RelativeToolTip": "ThucHanhMang-Lab2\\lab2.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:15:16.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lab2.cs [Design]",
+              "DocumentMoniker": "D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\ThucHanhMang-Lab2\\lab2.cs",
+              "RelativeDocumentMoniker": "ThucHanhMang-Lab2\\lab2.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\ThucHanhMang-Lab2\\ThucHanhMang-Lab2\\lab2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:15:12.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\ThucHanhMang-Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "ThucHanhMang-Lab2\\Program.cs",
+              "ToolTip": "D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\ThucHanhMang-Lab2\\Program.cs",
+              "RelativeToolTip": "ThucHanhMang-Lab2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:15:04.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab2-bai4.cs",
+              "DocumentMoniker": "D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\ThucHanhMang-Lab2\\lab2-bai4.cs",
+              "RelativeDocumentMoniker": "ThucHanhMang-Lab2\\lab2-bai4.cs",
+              "ToolTip": "D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\ThucHanhMang-Lab2\\lab2-bai4.cs",
+              "RelativeToolTip": "ThucHanhMang-Lab2\\lab2-bai4.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:14:29.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "lab2.resx",
+              "DocumentMoniker": "D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\ThucHanhMang-Lab2\\lab2.resx",
+              "RelativeDocumentMoniker": "ThucHanhMang-Lab2\\lab2.resx",
+              "ToolTip": "D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\ThucHanhMang-Lab2\\lab2.resx",
+              "RelativeToolTip": "ThucHanhMang-Lab2\\lab2.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-08T16:17:03.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lab2-Bai5.cs [Design]",
+              "DocumentMoniker": "D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\ThucHanhMang-Lab2\\lab2-Bai5.cs",
+              "RelativeDocumentMoniker": "ThucHanhMang-Lab2\\lab2-Bai5.cs",
+              "ToolTip": "D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\ThucHanhMang-Lab2\\lab2-Bai5.cs [Design]",
+              "RelativeToolTip": "ThucHanhMang-Lab2\\lab2-Bai5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:18:13.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\ThucHanhMang-Lab2\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "ThucHanhMang-Lab2\\Properties\\Resources.resx",
+              "ToolTip": "D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\ThucHanhMang-Lab2\\Properties\\Resources.resx",
+              "RelativeToolTip": "ThucHanhMang-Lab2\\Properties\\Resources.resx",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAgwHsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-08T16:17:30.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "lab2-bai1.cs [Design]",
+              "DocumentMoniker": "D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\ThucHanhMang-Lab2\\lab2-bai1.cs",
+              "RelativeDocumentMoniker": "ThucHanhMang-Lab2\\lab2-bai1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\ThucHanhMang-Lab2\\ThucHanhMang-Lab2\\lab2-bai1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:02:04.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab2-bai4.cs [Design]",
+              "DocumentMoniker": "D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\ThucHanhMang-Lab2\\lab2-bai4.cs",
+              "RelativeDocumentMoniker": "ThucHanhMang-Lab2\\lab2-bai4.cs",
+              "ToolTip": "D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\ThucHanhMang-Lab2\\lab2-bai4.cs [Design]",
+              "RelativeToolTip": "ThucHanhMang-Lab2\\lab2-bai4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:58:40.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lab2-Bai3.cs",
+              "DocumentMoniker": "D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\ThucHanhMang-Lab2\\lab2-Bai3.cs",
+              "RelativeDocumentMoniker": "ThucHanhMang-Lab2\\lab2-Bai3.cs",
+              "ToolTip": "D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\ThucHanhMang-Lab2\\lab2-Bai3.cs",
+              "RelativeToolTip": "ThucHanhMang-Lab2\\lab2-Bai3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAWwAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:32:16.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "lab2-Bai2.cs [Design]",
+              "DocumentMoniker": "D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\ThucHanhMang-Lab2\\lab2-Bai2.cs",
+              "RelativeDocumentMoniker": "ThucHanhMang-Lab2\\lab2-Bai2.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\ThucHanhMang-Lab2\\ThucHanhMang-Lab2\\lab2-Bai2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:01:01.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "lab2.cs",
+              "DocumentMoniker": "D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\ThucHanhMang-Lab2\\lab2.cs",
+              "RelativeDocumentMoniker": "ThucHanhMang-Lab2\\lab2.cs",
+              "ToolTip": "D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\ThucHanhMang-Lab2\\lab2.cs",
+              "RelativeToolTip": "ThucHanhMang-Lab2\\lab2.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAwwAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T02:39:07.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab2-Bai3.cs [Design]",
+              "DocumentMoniker": "D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\ThucHanhMang-Lab2\\lab2-Bai3.cs",
+              "RelativeDocumentMoniker": "ThucHanhMang-Lab2\\lab2-Bai3.cs",
+              "ToolTip": "D:\\UIT\\HK2 N\u0103m 2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\Lab\\LAB2\\ThucHanhMang-Lab2-20240408T164018Z-001\\ThucHanhMang-Lab2\\ThucHanhMang-Lab2\\lab2-Bai3.cs [Design]",
+              "RelativeToolTip": "ThucHanhMang-Lab2\\lab2-Bai3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T01:47:31.657Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

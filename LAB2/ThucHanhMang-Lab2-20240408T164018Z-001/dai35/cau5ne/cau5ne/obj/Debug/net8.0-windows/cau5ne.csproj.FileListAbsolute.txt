@@ -1,0 +1,16 @@
+C:\Users\dadad\source\repos\cau5ne\cau5ne\bin\Debug\net8.0-windows\cau5ne.exe
+C:\Users\dadad\source\repos\cau5ne\cau5ne\bin\Debug\net8.0-windows\cau5ne.deps.json
+C:\Users\dadad\source\repos\cau5ne\cau5ne\bin\Debug\net8.0-windows\cau5ne.runtimeconfig.json
+C:\Users\dadad\source\repos\cau5ne\cau5ne\bin\Debug\net8.0-windows\cau5ne.dll
+C:\Users\dadad\source\repos\cau5ne\cau5ne\bin\Debug\net8.0-windows\cau5ne.pdb
+C:\Users\dadad\source\repos\cau5ne\cau5ne\obj\Debug\net8.0-windows\cau5ne.Form1.resources
+C:\Users\dadad\source\repos\cau5ne\cau5ne\obj\Debug\net8.0-windows\cau5ne.csproj.GenerateResource.cache
+C:\Users\dadad\source\repos\cau5ne\cau5ne\obj\Debug\net8.0-windows\cau5ne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dadad\source\repos\cau5ne\cau5ne\obj\Debug\net8.0-windows\cau5ne.AssemblyInfoInputs.cache
+C:\Users\dadad\source\repos\cau5ne\cau5ne\obj\Debug\net8.0-windows\cau5ne.AssemblyInfo.cs
+C:\Users\dadad\source\repos\cau5ne\cau5ne\obj\Debug\net8.0-windows\cau5ne.csproj.CoreCompileInputs.cache
+C:\Users\dadad\source\repos\cau5ne\cau5ne\obj\Debug\net8.0-windows\cau5ne.dll
+C:\Users\dadad\source\repos\cau5ne\cau5ne\obj\Debug\net8.0-windows\refint\cau5ne.dll
+C:\Users\dadad\source\repos\cau5ne\cau5ne\obj\Debug\net8.0-windows\cau5ne.pdb
+C:\Users\dadad\source\repos\cau5ne\cau5ne\obj\Debug\net8.0-windows\cau5ne.genruntimeconfig.cache
+C:\Users\dadad\source\repos\cau5ne\cau5ne\obj\Debug\net8.0-windows\ref\cau5ne.dll

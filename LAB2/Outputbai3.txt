@@ -1,0 +1,37 @@
+10 +3= - Lỗi dữ liệu không hợp lệ
+ 10 - Lỗi định dạng
+10  - Lỗi định dạng
+10  2 - Lỗi định dạng
+a - Lỗi định dạng
+!a  - Lỗi định dạng
+a +2 - Lỗi dữ liệu không hợp lệ
+2 +a - Lỗi dữ liệu không hợp lệ
+10 +3 = 2 - Lỗi định dạng
+10 +3 2 - Lỗi định dạng
+19 +3 +2 - Lỗi định dạng
+10! +3 - Lỗi dữ liệu không hợp lệ
+ 10 - Lỗi định dạng
+10 0 - Lỗi định dạng
+.10 +5 - Lỗi định dạng (số không được phép chứa dấu ".")
+200 +9 = 209
+4230984209842 +432984092840 = 4663968302682
+r30 +32 - Lỗi dữ liệu không hợp lệ
+.3 -2 - Lỗi định dạng (số không được phép chứa dấu ".")
+1.5 +6 - Lỗi định dạng (số không được phép chứa dấu ".")
+2 *35 = 70
+9 -34 = -25
+10 /0 - Lỗi chia cho 0
+a+b - Lỗi định dạng
+a +b - Lỗi dữ liệu không hợp lệ
+10 +5 = 15
+10 + 5 - Lỗi định dạng
+ 10+ 5 - Lỗi định dạng
+ 10 + 5 - Lỗi định dạng
+ 10 +5 - Lỗi định dạng
+10 +5  - Lỗi định dạng
+a +5 - Lỗi dữ liệu không hợp lệ
+5 +a - Lỗi dữ liệu không hợp lệ
+3,4,5 + 1 - Lỗi định dạng
+3.4.5 +1 - Lỗi dữ liệu không hợp lệ
+//1 +2 - Lỗi định dạng
+//1 + 2 - Lỗi định dạng

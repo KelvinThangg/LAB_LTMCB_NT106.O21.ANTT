@@ -1,0 +1,34 @@
+D:\UIT\Nam_2\LTMCB\TH\LAB_02\LAB2\bin\Debug\LAB2.exe.config
+D:\UIT\Nam_2\LTMCB\TH\LAB_02\LAB2\bin\Debug\LAB2.exe
+D:\UIT\Nam_2\LTMCB\TH\LAB_02\LAB2\bin\Debug\LAB2.pdb
+D:\UIT\Nam_2\LTMCB\TH\LAB_02\LAB2\obj\Debug\LAB2.csproj.AssemblyReference.cache
+D:\UIT\Nam_2\LTMCB\TH\LAB_02\LAB2\obj\Debug\LAB2.FormMenu.resources
+D:\UIT\Nam_2\LTMCB\TH\LAB_02\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+D:\UIT\Nam_2\LTMCB\TH\LAB_02\LAB2\obj\Debug\LAB2.WriteNRead.resources
+D:\UIT\Nam_2\LTMCB\TH\LAB_02\LAB2\obj\Debug\LAB2.csproj.GenerateResource.cache
+D:\UIT\Nam_2\LTMCB\TH\LAB_02\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+D:\UIT\Nam_2\LTMCB\TH\LAB_02\LAB2\obj\Debug\LAB2.exe
+D:\UIT\Nam_2\LTMCB\TH\LAB_02\LAB2\obj\Debug\LAB2.pdb
+D:\UIT\Nam_2\LTMCB\TH\LAB_02\LAB2\bin\Debug\Guna.UI2.dll
+D:\UIT\Nam_2\LTMCB\TH\LAB_02\LAB2\obj\Debug\LAB2.csproj.Up2Date
+D:\UIT\Nam_2\LTMCB\TH\LAB_02\LAB2\obj\Debug\LAB2.ReadNWritepp.resources
+D:\UIT\Nam_2\LTMCB\TH\LAB_02\LAB2\obj\Debug\LAB2.BFormatter.resources
+D:\UIT\Nam_2\LTMCB\TH\LAB_02\LAB2\obj\Debug\LAB2.Directory.resources
+D:\UIT\Nam_2\LTMCB\TH\LAB_02\LAB2\obj\Debug\LAB2.FileDetail.resources
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB2\LAB2\bin\Debug\LAB2.exe.config
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB2\LAB2\bin\Debug\LAB2.exe
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB2\LAB2\bin\Debug\LAB2.pdb
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB2\LAB2\bin\Debug\Guna.UI2.dll
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB2\LAB2\obj\Debug\LAB2.csproj.AssemblyReference.cache
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB2\LAB2\obj\Debug\LAB2.BFormatter.resources
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB2\LAB2\obj\Debug\LAB2.Directory.resources
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB2\LAB2\obj\Debug\LAB2.FileDetail.resources
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB2\LAB2\obj\Debug\LAB2.FormMenu.resources
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB2\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB2\LAB2\obj\Debug\LAB2.ReadNWritepp.resources
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB2\LAB2\obj\Debug\LAB2.WriteNRead.resources
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB2\LAB2\obj\Debug\LAB2.csproj.GenerateResource.cache
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB2\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB2\LAB2\obj\Debug\LAB2.csproj.Up2Date
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB2\LAB2\obj\Debug\LAB2.exe
+D:\UIT\HK2 Năm 2\Lập trình mạng\Lab\LAB2\LAB2\LAB2\obj\Debug\LAB2.pdb
