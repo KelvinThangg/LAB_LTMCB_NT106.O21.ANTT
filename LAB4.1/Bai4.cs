@@ -62,35 +62,36 @@ namespace Lab4
         {
             try
             {
-                // Sử dụng HtmlAgilityPack để lấy và xử lý HTML
+                HashSet<string> downloadedUrls = new HashSet<string>();
+
                 HtmlWeb web = new HtmlWeb();
                 HtmlAgilityPack.HtmlDocument doc = web.Load(url);
+                downloadedUrls.Add(url); // Thêm URL gốc vào danh sách đã tải
 
-                // Lưu file HTML
                 string htmlFilePath = Path.Combine(folderPath, "index.html");
                 doc.Save(htmlFilePath);
 
-                // Tìm kiếm và download các file liên quan
-                foreach (HtmlNode link in doc.DocumentNode.SelectNodes("//img[@src] | //link[@href] | //script[@src]"))
+                foreach (HtmlNode link in doc.DocumentNode.SelectNodes("//img[@src]")) // Chỉ xét thẻ img
                 {
-                    string attributeName = link.Name == "img" ? "src" : (link.Name == "link" ? "href" : "src");
-                    string fileUrl = link.Attributes[attributeName].Value;
-
+                    string fileUrl = link.Attributes["src"].Value;
                     if (!fileUrl.StartsWith("http"))
                     {
                         fileUrl = new Uri(new Uri(url), fileUrl).AbsoluteUri;
                     }
 
-                    string fileName = Path.GetFileName(fileUrl);
-                    string filePath = Path.Combine(folderPath, fileName);
-
-                    using (WebClient client = new WebClient())
+                    if (!downloadedUrls.Contains(fileUrl)) // Kiểm tra trước khi tải
                     {
-                        client.DownloadFile(fileUrl, filePath);
+                        string fileName = Path.GetFileName(fileUrl);
+                        string filePath = Path.Combine(folderPath, fileName);
+                        using (WebClient client = new WebClient())
+                        {
+                            client.DownloadFile(fileUrl, filePath);
+                        }
+                        downloadedUrls.Add(fileUrl); // Đánh dấu đã tải
                     }
                 }
 
-                MessageBox.Show("Download hoàn tất!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Download hoàn tất!");
             }
             catch (Exception ex)
             {

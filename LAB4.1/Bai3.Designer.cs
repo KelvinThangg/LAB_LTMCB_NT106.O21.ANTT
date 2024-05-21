@@ -32,6 +32,7 @@
             this.btnDownload = new Guna.UI2.WinForms.Guna2GradientButton();
             this.txtPath = new Guna.UI2.WinForms.Guna2TextBox();
             this.txtURL = new Guna.UI2.WinForms.Guna2TextBox();
+            this.browseBtn = new Guna.UI2.WinForms.Guna2GradientButton();
             this.SuspendLayout();
             // 
             // richTextBox1
@@ -69,7 +70,7 @@
             // 
             this.txtPath.BorderRadius = 10;
             this.txtPath.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.txtPath.DefaultText = "D:\\UIT\\HK2 Năm 2\\Lap trinh mang\\Lab";
+            this.txtPath.DefaultText = "";
             this.txtPath.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
             this.txtPath.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
             this.txtPath.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
@@ -79,6 +80,7 @@
             this.txtPath.ForeColor = System.Drawing.Color.Black;
             this.txtPath.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txtPath.Location = new System.Drawing.Point(48, 72);
+            this.txtPath.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtPath.Name = "txtPath";
             this.txtPath.PasswordChar = '\0';
             this.txtPath.PlaceholderText = "";
@@ -100,6 +102,7 @@
             this.txtURL.ForeColor = System.Drawing.Color.Black;
             this.txtURL.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txtURL.Location = new System.Drawing.Point(48, 15);
+            this.txtURL.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtURL.Name = "txtURL";
             this.txtURL.PasswordChar = '\0';
             this.txtURL.PlaceholderText = "";
@@ -107,12 +110,32 @@
             this.txtURL.Size = new System.Drawing.Size(375, 39);
             this.txtURL.TabIndex = 5;
             // 
+            // browseBtn
+            // 
+            this.browseBtn.BorderRadius = 10;
+            this.browseBtn.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.browseBtn.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.browseBtn.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.browseBtn.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.browseBtn.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.browseBtn.FillColor = System.Drawing.Color.Aquamarine;
+            this.browseBtn.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
+            this.browseBtn.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.browseBtn.ForeColor = System.Drawing.Color.White;
+            this.browseBtn.Location = new System.Drawing.Point(443, 72);
+            this.browseBtn.Name = "browseBtn";
+            this.browseBtn.Size = new System.Drawing.Size(112, 39);
+            this.browseBtn.TabIndex = 9;
+            this.browseBtn.Text = "Browse";
+            this.browseBtn.Click += new System.EventHandler(this.browseBtn_Click);
+            // 
             // Bai3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.ClientSize = new System.Drawing.Size(593, 441);
+            this.Controls.Add(this.browseBtn);
             this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.btnDownload);
             this.Controls.Add(this.txtPath);
@@ -129,5 +152,6 @@
         private Guna.UI2.WinForms.Guna2GradientButton btnDownload;
         private Guna.UI2.WinForms.Guna2TextBox txtPath;
         private Guna.UI2.WinForms.Guna2TextBox txtURL;
+        private Guna.UI2.WinForms.Guna2GradientButton browseBtn;
     }
 }

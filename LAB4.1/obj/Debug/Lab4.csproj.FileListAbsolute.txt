@@ -34,3 +34,41 @@ D:\UIT\HK2 Năm 2\Lap trinh mang\Lab\LAB4.1\obj\Debug\Lab4.csproj.Up2Date
 D:\UIT\HK2 Năm 2\Lap trinh mang\Lab\LAB4.1\obj\Debug\Lab4.exe
 D:\UIT\HK2 Năm 2\Lap trinh mang\Lab\LAB4.1\obj\Debug\Lab4.pdb
 D:\UIT\HK2 Năm 2\Lap trinh mang\Lab\LAB4.1\obj\Debug\WebDownloader.Bai3.resources
+C:\Users\dadad\Downloads\LAB_LTMCB_NT106.O21.ANTT-main\LAB_LTMCB_NT106.O21.ANTT-main\LAB4.1\bin\Debug\Lab4.exe.config
+C:\Users\dadad\Downloads\LAB_LTMCB_NT106.O21.ANTT-main\LAB_LTMCB_NT106.O21.ANTT-main\LAB4.1\bin\Debug\Lab4.exe
+C:\Users\dadad\Downloads\LAB_LTMCB_NT106.O21.ANTT-main\LAB_LTMCB_NT106.O21.ANTT-main\LAB4.1\bin\Debug\Lab4.pdb
+C:\Users\dadad\Downloads\LAB_LTMCB_NT106.O21.ANTT-main\LAB_LTMCB_NT106.O21.ANTT-main\LAB4.1\bin\Debug\Guna.UI2.dll
+C:\Users\dadad\Downloads\LAB_LTMCB_NT106.O21.ANTT-main\LAB_LTMCB_NT106.O21.ANTT-main\LAB4.1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dadad\Downloads\LAB_LTMCB_NT106.O21.ANTT-main\LAB_LTMCB_NT106.O21.ANTT-main\LAB4.1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\dadad\Downloads\LAB_LTMCB_NT106.O21.ANTT-main\LAB_LTMCB_NT106.O21.ANTT-main\LAB4.1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\dadad\Downloads\LAB_LTMCB_NT106.O21.ANTT-main\LAB_LTMCB_NT106.O21.ANTT-main\LAB4.1\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\dadad\Downloads\LAB_LTMCB_NT106.O21.ANTT-main\LAB_LTMCB_NT106.O21.ANTT-main\LAB4.1\obj\Debug\Lab4.Bai1.resources
+C:\Users\dadad\Downloads\LAB_LTMCB_NT106.O21.ANTT-main\LAB_LTMCB_NT106.O21.ANTT-main\LAB4.1\obj\Debug\Lab4.Bai2.resources
+C:\Users\dadad\Downloads\LAB_LTMCB_NT106.O21.ANTT-main\LAB_LTMCB_NT106.O21.ANTT-main\LAB4.1\obj\Debug\WebDownloader.Bai3.resources
+C:\Users\dadad\Downloads\LAB_LTMCB_NT106.O21.ANTT-main\LAB_LTMCB_NT106.O21.ANTT-main\LAB4.1\obj\Debug\Lab4.Bai4.resources
+C:\Users\dadad\Downloads\LAB_LTMCB_NT106.O21.ANTT-main\LAB_LTMCB_NT106.O21.ANTT-main\LAB4.1\obj\Debug\Lab4.Menu.resources
+C:\Users\dadad\Downloads\LAB_LTMCB_NT106.O21.ANTT-main\LAB_LTMCB_NT106.O21.ANTT-main\LAB4.1\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\dadad\Downloads\LAB_LTMCB_NT106.O21.ANTT-main\LAB_LTMCB_NT106.O21.ANTT-main\LAB4.1\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\dadad\Downloads\LAB_LTMCB_NT106.O21.ANTT-main\LAB_LTMCB_NT106.O21.ANTT-main\LAB4.1\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\dadad\Downloads\LAB_LTMCB_NT106.O21.ANTT-main\LAB_LTMCB_NT106.O21.ANTT-main\LAB4.1\obj\Debug\Lab4.csproj.Up2Date
+C:\Users\dadad\Downloads\LAB_LTMCB_NT106.O21.ANTT-main\LAB_LTMCB_NT106.O21.ANTT-main\LAB4.1\obj\Debug\Lab4.exe
+C:\Users\dadad\Downloads\LAB_LTMCB_NT106.O21.ANTT-main\LAB_LTMCB_NT106.O21.ANTT-main\LAB4.1\obj\Debug\Lab4.pdb
+D:\UIT\HK2 Nam 2\Lap trinh mang\Lab\LAB4.1\bin\Debug\Lab4.exe.config
+D:\UIT\HK2 Nam 2\Lap trinh mang\Lab\LAB4.1\bin\Debug\Lab4.exe
+D:\UIT\HK2 Nam 2\Lap trinh mang\Lab\LAB4.1\bin\Debug\Lab4.pdb
+D:\UIT\HK2 Nam 2\Lap trinh mang\Lab\LAB4.1\bin\Debug\Guna.UI2.dll
+D:\UIT\HK2 Nam 2\Lap trinh mang\Lab\LAB4.1\bin\Debug\HtmlAgilityPack.dll
+D:\UIT\HK2 Nam 2\Lap trinh mang\Lab\LAB4.1\bin\Debug\HtmlAgilityPack.pdb
+D:\UIT\HK2 Nam 2\Lap trinh mang\Lab\LAB4.1\bin\Debug\HtmlAgilityPack.xml
+D:\UIT\HK2 Nam 2\Lap trinh mang\Lab\LAB4.1\obj\Debug\Lab4.csproj.AssemblyReference.cache
+D:\UIT\HK2 Nam 2\Lap trinh mang\Lab\LAB4.1\obj\Debug\Lab4.Bai1.resources
+D:\UIT\HK2 Nam 2\Lap trinh mang\Lab\LAB4.1\obj\Debug\Lab4.Bai2.resources
+D:\UIT\HK2 Nam 2\Lap trinh mang\Lab\LAB4.1\obj\Debug\WebDownloader.Bai3.resources
+D:\UIT\HK2 Nam 2\Lap trinh mang\Lab\LAB4.1\obj\Debug\Lab4.Bai4.resources
+D:\UIT\HK2 Nam 2\Lap trinh mang\Lab\LAB4.1\obj\Debug\Lab4.Menu.resources
+D:\UIT\HK2 Nam 2\Lap trinh mang\Lab\LAB4.1\obj\Debug\Lab4.Properties.Resources.resources
+D:\UIT\HK2 Nam 2\Lap trinh mang\Lab\LAB4.1\obj\Debug\Lab4.csproj.GenerateResource.cache
+D:\UIT\HK2 Nam 2\Lap trinh mang\Lab\LAB4.1\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\UIT\HK2 Nam 2\Lap trinh mang\Lab\LAB4.1\obj\Debug\Lab4.csproj.Up2Date
+D:\UIT\HK2 Nam 2\Lap trinh mang\Lab\LAB4.1\obj\Debug\Lab4.exe
+D:\UIT\HK2 Nam 2\Lap trinh mang\Lab\LAB4.1\obj\Debug\Lab4.pdb

@@ -114,11 +114,11 @@
             // guna2HtmlLabel1
             // 
             this.guna2HtmlLabel1.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel1.Font = new System.Drawing.Font("Segoe UI", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.guna2HtmlLabel1.ForeColor = System.Drawing.Color.Cyan;
-            this.guna2HtmlLabel1.Location = new System.Drawing.Point(356, 36);
+            this.guna2HtmlLabel1.Font = new System.Drawing.Font("Perfect Dark (BRK)", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2HtmlLabel1.ForeColor = System.Drawing.Color.Turquoise;
+            this.guna2HtmlLabel1.Location = new System.Drawing.Point(335, 50);
             this.guna2HtmlLabel1.Name = "guna2HtmlLabel1";
-            this.guna2HtmlLabel1.Size = new System.Drawing.Size(76, 39);
+            this.guna2HtmlLabel1.Size = new System.Drawing.Size(108, 29);
             this.guna2HtmlLabel1.TabIndex = 1;
             this.guna2HtmlLabel1.Text = "LAB 4";
             // 

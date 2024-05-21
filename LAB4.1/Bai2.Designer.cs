@@ -39,7 +39,7 @@
             // 
             this.txturl.BorderRadius = 10;
             this.txturl.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.txturl.DefaultText = "https://blogg-booster.com";
+            this.txturl.DefaultText = "https://postman-echo.com/post";
             this.txturl.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
             this.txturl.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
             this.txturl.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
