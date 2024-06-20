@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dadad\\Downloads\\22520180-B\u00F9i Ph\u01B0\u01A1ng \u0110\u1EA1i_22521328-L\u01B0\u01A1ng Cao Th\u1EAFng\\Source code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B247FC97-A6E8-4E9F-B5AD-4E471164E8C4}|LAB6.csproj|c:\\users\\dadad\\downloads\\22520180-b\u00F9i ph\u01B0\u01A1ng \u0111\u1EA1i_22521328-l\u01B0\u01A1ng cao th\u1EAFng\\source code\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B247FC97-A6E8-4E9F-B5AD-4E471164E8C4}|LAB6.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B247FC97-A6E8-4E9F-B5AD-4E471164E8C4}|LAB6.csproj|C:\\Users\\dadad\\Downloads\\22520180-B\u00F9i Ph\u01B0\u01A1ng \u0110\u1EA1i_22521328-L\u01B0\u01A1ng Cao Th\u1EAFng\\Source code\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B247FC97-A6E8-4E9F-B5AD-4E471164E8C4}|LAB6.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B247FC97-A6E8-4E9F-B5AD-4E471164E8C4}|LAB6.csproj|C:\\Users\\dadad\\Downloads\\22520180-B\u00F9i Ph\u01B0\u01A1ng \u0110\u1EA1i_22521328-L\u01B0\u01A1ng Cao Th\u1EAFng\\Source code\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B247FC97-A6E8-4E9F-B5AD-4E471164E8C4}|LAB6.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 201,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dadad\\Downloads\\22520180-B\u00F9i Ph\u01B0\u01A1ng \u0110\u1EA1i_22521328-L\u01B0\u01A1ng Cao Th\u1EAFng\\Source code\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\dadad\\Downloads\\22520180-B\u00F9i Ph\u01B0\u01A1ng \u0110\u1EA1i_22521328-L\u01B0\u01A1ng Cao Th\u1EAFng\\Source code\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:53:19.137Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\dadad\\Downloads\\22520180-B\u00F9i Ph\u01B0\u01A1ng \u0110\u1EA1i_22521328-L\u01B0\u01A1ng Cao Th\u1EAFng\\Source code\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\dadad\\Downloads\\22520180-B\u00F9i Ph\u01B0\u01A1ng \u0110\u1EA1i_22521328-L\u01B0\u01A1ng Cao Th\u1EAFng\\Source code\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUCAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:54:49.03Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dadad\\Downloads\\22520180-B\u00F9i Ph\u01B0\u01A1ng \u0110\u1EA1i_22521328-L\u01B0\u01A1ng Cao Th\u1EAFng\\Source code\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\dadad\\Downloads\\22520180-B\u00F9i Ph\u01B0\u01A1ng \u0110\u1EA1i_22521328-L\u01B0\u01A1ng Cao Th\u1EAFng\\Source code\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAOYCAAAAAAAAAAAqwPsCAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:45:20.248Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
